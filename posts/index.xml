@@ -6,7 +6,14 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 10:48:17 -0400</lastBuildDate>
     <atom:link href="https://mikepatx.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day One</title>
+      <link>https://mikepatx.com/posts/day-one/</link>
+      <pubDate>Wed, 09 Apr 2025 10:48:17 -0400</pubDate>
+      <guid>https://mikepatx.com/posts/day-one/</guid>
+      <description>Introductions, I guess? You may have read the about section, but just in case (and to be polite), I&amp;rsquo;m mikepatx. I work in the offensive security space and I enjoy learning. I&amp;rsquo;ve done blogs probably a bunch of times over the years but always get lost in the sauce and struggle to keep the ball rolling. Typically one of the issues that I have is that I only try to focus on specific niches in my posts.</description>
+    </item>
   </channel>
 </rss>
